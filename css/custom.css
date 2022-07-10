@@ -1,0 +1,9 @@
+body{
+    background-color: #E9ECEF;
+}
+a {
+    color: inherit;
+}
+a:hover{
+    text-decoration: none;
+}
